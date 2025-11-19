@@ -1,3 +1,10 @@
+# ------------------------------------------------------------
+# Horsepower Prediction using Linear Regression in R
+# Author: Mazen Fraihat
+# Description: Compares simple and multiple linear models 
+#   to predict automobile horsepower using the imports-85 dataset.
+# ------------------------------------------------------------
+
 #==== 0.0  Introduction ====
 
 ## ----0.1 - Load Libraries and Data----
